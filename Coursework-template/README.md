@@ -19,3 +19,6 @@ coursework.cls是定制的文类模板，里面配置了文档的格式，包括
 ### fig文件夹
 该文件夹是必须的，里面放置的csuLOGO.jpg是学校的LOGO，在coursework.cls中需要用到。此外，文章内容中需要用到的图片也可以放进这个文件夹
 
+### document.tex
+示例
+
