@@ -212,6 +212,6 @@
 \makeatletter
 \@addtoreset{equation}{section}
 \makeatother
-\renewcommand{\theequation}{\thesection-\arabic{equation}}
+\renewcommand{\theequation}{\thesection.\arabic{equation}}
 
 
