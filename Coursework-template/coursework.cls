@@ -178,7 +178,7 @@
 \RequirePackage{caption}
 \DeclareCaptionFont{song}{\songti}
 \DeclareCaptionFont{minusfour}{\zihao{-4}}
-\DeclareCaptionFont{figurefont}{\heiti\zihao{-5}}
+\DeclareCaptionFont{figurefont}{\heiti\zihao{5}}
 \captionsetup[figure]{%
 	format=hang,   % 标题从第二行开始都有缩进, 应该和 justification=raggedright 的效果一样.
 	labelsep=quad, % 分隔符是一个空格
