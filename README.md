@@ -3,4 +3,4 @@
 
 
 - **课程作业模板**：coursework-template文件夹
-- **侧边栏风格的slice**：MyBeamer1文件夹
+- **侧边栏风格的幻灯片**：MyBeamer1文件夹
